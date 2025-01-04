@@ -1,0 +1,37 @@
+[
+  {
+    "description": "A crisp, juicy fruit with a sweet to tart taste, commonly red, green, or yellow in skin color.",
+    "imgSrc": "https://raw.githubusercontent.com/CS571-F24/hw7-api-static-content/main/apple.png",
+    "name": "Apple",
+    "price": 0.75,
+    "upperLimit": 20
+  },
+  {
+    "description": "A dense, chewy bread roll, traditionally shaped into a ring, often topped with seeds or seasonings.",
+    "imgSrc": "https://raw.githubusercontent.com/CS571-F24/hw7-api-static-content/main/bagel.png",
+    "name": "Bagel",
+    "price": 0.5,
+    "upperLimit": 8
+  },
+  {
+    "description": "A large, tropical fruit with a hard shell, edible white flesh, and a clear liquid inside, known as coconut water.",
+    "imgSrc": "https://raw.githubusercontent.com/CS571-F24/hw7-api-static-content/main/coconut.png",
+    "name": "Coconut",
+    "price": 2.5,
+    "upperLimit": 4
+  },
+  {
+    "description": "A sweet, fried dough treat, typically circular with a hole in the center, and often glazed or topped with sugar and other sweets.",
+    "imgSrc": "https://raw.githubusercontent.com/CS571-F24/hw7-api-static-content/main/donut.png",
+    "name": "Donut",
+    "price": 1.5,
+    "upperLimit": 12
+  },
+  {
+    "description": "A versatile, oval-shaped ingredient with a hard outer shell, containing a protein-rich white and a nutrient-dense yolk inside.",
+    "imgSrc": "https://raw.githubusercontent.com/CS571-F24/hw7-api-static-content/main/eggs.png",
+    "name": "Eggs",
+    "price": 1,
+    "upperLimit": 6
+  }
+]
